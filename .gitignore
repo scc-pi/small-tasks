@@ -43,3 +43,6 @@ vignettes/*.pdf
 
 # output directory
 /output/
+
+# data directory
+/data/
